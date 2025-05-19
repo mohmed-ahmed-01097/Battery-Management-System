@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HarnessInformation>
+  <Harness>
+    <P Name="Name">BMS_EstimateSOC_COM_Harness_MIL</P>
+    <P Name="Description"/>
+    <P Name="CreatedBy">MAAM</P>
+    <P Name="CreatedOn">Wed May 14 21:43:47 2025</P>
+    <P Name="ModifiedBy">MAAM</P>
+    <P Name="LastSaved">Fri May 30 20:03:46 2025</P>
+    <P Name="Owner">15</P>
+    <P Name="OwnerType">SS_HARNESS</P>
+    <P Name="OwnerPath">BMS_EstimateSOC_Runnable</P>
+    <P Name="Directory"/>
+    <P Name="FileName">BMS_EstimateSOC_COM_Harness_MIL.slx</P>
+    <P Name="SavedVersion">10.6</P>
+    <P Name="HarnessUUID">c957b09b-82cc-49ec-b660-38d9f009161e</P>
+    <P Name="HarnessConnectionsMap">0,1,2|0,1|0,0,0,0||</P>
+    <P Name="VerificationMode">0</P>
+    <P Name="HarnessOwnerCheckSum">0,0,0,0</P>
+    <P Name="RebuildOnOpen">false</P>
+    <P Name="RebuildModelData">false</P>
+    <P Name="Graphical">false</P>
+    <P Name="DriveFcnCallWithTS">true</P>
+    <P Name="ScheduleInitTermReset">false</P>
+    <P Name="AutoShapeInputs">false</P>
+    <P Name="SLDVCompatible">no</P>
+    <P Name="SynchronizationMode">0</P>
+    <P Name="IsImported">false</P>
+    <P Name="PostRebuildCB"/>
+    <P Name="IsCodeContext">false</P>
+    <P Name="SchedulerBlock">1</P>
+    <P Name="SourceTypeString">Test Sequence</P>
+    <P Name="SinkTypeString">Test Assessment</P>
+    <P Name="CustomSourcePath"/>
+    <P Name="CustomSinkPath"/>
+    <P Name="BlockSIDs">7|30|0|0|0|48|0</P>
+    <P Name="OpenGraphs">||BMS_EstimateSOC_COM_Harness_MIL||BMS_EstimateSOC_COM_Harness_MIL/UnderTest||BMS_EstimateSOC_COM_Harness_MIL/UnderTest/Subsystem Reference||BMS_EstimateSOC_COM_Harness_MIL/UnderTest/Subsystem Reference/BalancingMode/Passive/Subsystem</P>
+    <P Name="ExistingBuildFolder"/>
+    <P Name="FunctionInterfaceName"/>
+  </Harness>
+  <Harness>
+    <P Name="Name">BMS_EstimateSOC_COM_Harness_SIL</P>
+    <P Name="Description"/>
+    <P Name="CreatedBy">MAAM</P>
+    <P Name="CreatedOn">Wed May 14 21:51:51 2025</P>
+    <P Name="ModifiedBy">MAAM</P>
+    <P Name="LastSaved">Thu May 15 05:23:48 2025</P>
+    <P Name="Owner">15</P>
+    <P Name="OwnerType">SS_HARNESS</P>
+    <P Name="OwnerPath">BMS_EstimateSOC_Runnable</P>
+    <P Name="Directory"/>
+    <P Name="FileName">BMS_EstimateSOC_COM_Harness_SIL.slx</P>
+    <P Name="SavedVersion">10.6</P>
+    <P Name="HarnessUUID">d28d574b-17b7-4431-ac8f-37245e78eaff</P>
+    <P Name="HarnessConnectionsMap">0,1,2|0,1|0,0,0,0||</P>
+    <P Name="VerificationMode">1</P>
+    <P Name="HarnessOwnerCheckSum">2829232909,425669349,906920719,2968687843</P>
+    <P Name="RebuildOnOpen">true</P>
+    <P Name="RebuildModelData">false</P>
+    <P Name="Graphical">false</P>
+    <P Name="DriveFcnCallWithTS">true</P>
+    <P Name="ScheduleInitTermReset">false</P>
+    <P Name="AutoShapeInputs">false</P>
+    <P Name="SLDVCompatible">no</P>
+    <P Name="SynchronizationMode">2</P>
+    <P Name="IsImported">false</P>
+    <P Name="PostRebuildCB"/>
+    <P Name="IsCodeContext">false</P>
+    <P Name="SchedulerBlock">1</P>
+    <P Name="SourceTypeString">Test Sequence</P>
+    <P Name="SinkTypeString">Test Assessment</P>
+    <P Name="CustomSourcePath"/>
+    <P Name="CustomSinkPath"/>
+    <P Name="BlockSIDs">2|25|0|0|0|43|0</P>
+    <P Name="OpenGraphs">||||BMS_EstimateSOC_COM_Harness_SIL</P>
+    <P Name="ExistingBuildFolder"/>
+    <P Name="FunctionInterfaceName"/>
+  </Harness>
+  <ModelMetadata>
+    <P Name="ModelUUID">cddc584b-0fbe-4c27-99c3-efab9ddcfd63</P>
+    <P Name="OwnerBDName">BMS_EstimateSOC_COM</P>
+  </ModelMetadata>
+</HarnessInformation>

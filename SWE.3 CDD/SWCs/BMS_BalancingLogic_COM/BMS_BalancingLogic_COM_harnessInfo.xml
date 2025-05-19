@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HarnessInformation>
+  <Harness>
+    <P Name="Name">BMS_BalancingLogic_COM_Harness_MIL</P>
+    <P Name="Description"/>
+    <P Name="CreatedBy">MAAM</P>
+    <P Name="CreatedOn">Sun May 18 07:36:54 2025</P>
+    <P Name="ModifiedBy">MAAM</P>
+    <P Name="LastSaved">Fri May 30 21:13:46 2025</P>
+    <P Name="Owner">7</P>
+    <P Name="OwnerType">SS_HARNESS</P>
+    <P Name="OwnerPath">BMS_BalancingLogic_Runnable</P>
+    <P Name="Directory"/>
+    <P Name="FileName">BMS_BalancingLogic_COM_Harness_MIL.slx</P>
+    <P Name="SavedVersion">10.6</P>
+    <P Name="HarnessUUID">0b06c8df-ee50-4820-a0e6-bc9804f6e5aa</P>
+    <HarnessIOStrings>
+      <List ListType="Scope">
+        <P Name="set0ParseKeys">16</P>
+        <P Name="set0Sigs">Test Sequence:o1</P>
+        <P Name="set1ParseKeys">16</P>
+        <P Name="set1Sigs">Test Sequence:o2</P>
+        <P Name="set2ParseKeys">16,16</P>
+        <P Name="set2Sigs">Test Sequence:o3Test Sequence:o4</P>
+        <P Name="set3ParseKeys">30</P>
+        <P Name="set3Sigs">BMS_BalancingLogic_Runnable:o1</P>
+      </List>
+    </HarnessIOStrings>
+    <P Name="HarnessConnectionsMap">0,1,2,3|0|0,0,0,0||</P>
+    <P Name="VerificationMode">0</P>
+    <P Name="HarnessOwnerCheckSum">0,0,0,0</P>
+    <P Name="RebuildOnOpen">false</P>
+    <P Name="RebuildModelData">false</P>
+    <P Name="Graphical">false</P>
+    <P Name="DriveFcnCallWithTS">true</P>
+    <P Name="ScheduleInitTermReset">false</P>
+    <P Name="AutoShapeInputs">false</P>
+    <P Name="SLDVCompatible">no</P>
+    <P Name="SynchronizationMode">0</P>
+    <P Name="IsImported">false</P>
+    <P Name="PostRebuildCB"/>
+    <P Name="IsCodeContext">false</P>
+    <P Name="SchedulerBlock">1</P>
+    <P Name="SourceTypeString">Test Sequence</P>
+    <P Name="SinkTypeString">Test Assessment</P>
+    <P Name="CustomSourcePath"/>
+    <P Name="CustomSinkPath"/>
+    <P Name="BlockSIDs">7|35|0|0|0|45|0</P>
+    <P Name="OpenGraphs">||BMS_BalancingLogic_COM_Harness_MIL</P>
+    <P Name="ExistingBuildFolder"/>
+    <P Name="FunctionInterfaceName"/>
+  </Harness>
+  <Harness>
+    <P Name="Name">BMS_BalancingLogic_COM_Harness_SIL</P>
+    <P Name="Description"/>
+    <P Name="CreatedBy">MAAM</P>
+    <P Name="CreatedOn">Mon May 19 21:04:44 2025</P>
+    <P Name="ModifiedBy">MAAM</P>
+    <P Name="LastSaved">Fri May 30 21:31:49 2025</P>
+    <P Name="Owner">7</P>
+    <P Name="OwnerType">SS_HARNESS</P>
+    <P Name="OwnerPath">BMS_BalancingLogic_Runnable</P>
+    <P Name="Directory"/>
+    <P Name="FileName">BMS_BalancingLogic_COM_Harness_SIL.slx</P>
+    <P Name="SavedVersion">10.6</P>
+    <P Name="HarnessUUID">190e8274-b682-40e0-995a-062c4d610b85</P>
+    <P Name="HarnessConnectionsMap">0,1,2,3|0|0,0,0,0||</P>
+    <P Name="VerificationMode">1</P>
+    <P Name="HarnessOwnerCheckSum">3076846259,2913803866,4192394984,330585311</P>
+    <P Name="RebuildOnOpen">true</P>
+    <P Name="RebuildModelData">false</P>
+    <P Name="Graphical">false</P>
+    <P Name="DriveFcnCallWithTS">true</P>
+    <P Name="ScheduleInitTermReset">false</P>
+    <P Name="AutoShapeInputs">false</P>
+    <P Name="SLDVCompatible">no</P>
+    <P Name="SynchronizationMode">2</P>
+    <P Name="IsImported">false</P>
+    <P Name="PostRebuildCB"/>
+    <P Name="IsCodeContext">false</P>
+    <P Name="SchedulerBlock">1</P>
+    <P Name="SourceTypeString">Test Sequence</P>
+    <P Name="SinkTypeString">Test Assessment</P>
+    <P Name="CustomSourcePath"/>
+    <P Name="CustomSinkPath"/>
+    <P Name="BlockSIDs">2|30|0|0|0|40|0</P>
+    <P Name="OpenGraphs"/>
+    <P Name="ExistingBuildFolder"/>
+    <P Name="FunctionInterfaceName"/>
+  </Harness>
+  <ModelMetadata>
+    <P Name="ModelUUID">e4e3c0f0-4533-48f1-a57a-f512f6913e36</P>
+    <P Name="OwnerBDName">BMS_BalancingLogic_COM</P>
+  </ModelMetadata>
+</HarnessInformation>

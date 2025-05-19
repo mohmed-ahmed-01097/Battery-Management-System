@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HarnessInformation>
+  <Harness>
+    <P Name="Name">BMS_CurrentLimitsCalc_COM_Harness_MIL</P>
+    <P Name="Description"/>
+    <P Name="CreatedBy">MAAM</P>
+    <P Name="CreatedOn">Sat Apr 05 03:58:32 2025</P>
+    <P Name="ModifiedBy">MAAM</P>
+    <P Name="LastSaved">Sun May 18 08:16:22 2025</P>
+    <P Name="Owner">6</P>
+    <P Name="OwnerType">SS_HARNESS</P>
+    <P Name="OwnerPath">BMS_CurrentLimitsCalc_Runnable</P>
+    <P Name="Directory"/>
+    <P Name="FileName">BMS_CurrentLimitsCalc_COM_Harness_MIL.slx</P>
+    <P Name="SavedVersion">10.6</P>
+    <P Name="HarnessUUID">4ba9dcaf-f6d1-4b0c-8d54-5bab24d831e4</P>
+    <HarnessIOStrings>
+      <List ListType="Scope">
+        <P Name="set0ParseKeys">33</P>
+        <P Name="set0Sigs">BMS_CurrentLimitsCalc_Runnable:o1</P>
+        <P Name="set1ParseKeys">33</P>
+        <P Name="set1Sigs">BMS_CurrentLimitsCalc_Runnable:o2</P>
+        <P Name="set2ParseKeys">33</P>
+        <P Name="set2Sigs">BMS_CurrentLimitsCalc_Runnable:o3</P>
+      </List>
+      <List ListType="Scope1">
+        <P Name="set0ParseKeys">13</P>
+        <P Name="set0Sigs">Unit Delay:o1</P>
+        <P Name="set1ParseKeys">14</P>
+        <P Name="set1Sigs">Unit Delay1:o1</P>
+      </List>
+    </HarnessIOStrings>
+    <P Name="HarnessConnectionsMap">0,1|0,1,2|0,0,0,0||</P>
+    <P Name="VerificationMode">0</P>
+    <P Name="HarnessOwnerCheckSum">0,0,0,0</P>
+    <P Name="RebuildOnOpen">false</P>
+    <P Name="RebuildModelData">false</P>
+    <P Name="Graphical">false</P>
+    <P Name="DriveFcnCallWithTS">true</P>
+    <P Name="ScheduleInitTermReset">false</P>
+    <P Name="AutoShapeInputs">false</P>
+    <P Name="SLDVCompatible">no</P>
+    <P Name="SynchronizationMode">0</P>
+    <P Name="IsImported">false</P>
+    <P Name="PostRebuildCB"/>
+    <P Name="IsCodeContext">false</P>
+    <P Name="SchedulerBlock">1</P>
+    <P Name="SourceTypeString">Test Sequence</P>
+    <P Name="SinkTypeString">Test Assessment</P>
+    <P Name="CustomSourcePath"/>
+    <P Name="CustomSinkPath"/>
+    <P Name="BlockSIDs">7|25|0|0|0|51|0</P>
+    <P Name="OpenGraphs">||BMS_CurrentLimitsCalc_COM_Harness_MIL</P>
+    <P Name="ExistingBuildFolder"/>
+    <P Name="FunctionInterfaceName"/>
+  </Harness>
+  <Harness>
+    <P Name="Name">BMS_CurrentLimitsCalc_COM_Harness_SIL</P>
+    <P Name="Description"/>
+    <P Name="CreatedBy">MAAM</P>
+    <P Name="CreatedOn">Sat Apr 05 04:06:25 2025</P>
+    <P Name="ModifiedBy">MAAM</P>
+    <P Name="LastSaved">Sun May 18 08:19:21 2025</P>
+    <P Name="Owner">6</P>
+    <P Name="OwnerType">SS_HARNESS</P>
+    <P Name="OwnerPath">BMS_CurrentLimitsCalc_Runnable</P>
+    <P Name="Directory"/>
+    <P Name="FileName">BMS_CurrentLimitsCalc_COM_Harness_SIL.slx</P>
+    <P Name="SavedVersion">10.6</P>
+    <P Name="HarnessUUID">ebd56cf7-15e0-4e5a-8464-2992b2a53471</P>
+    <P Name="HarnessConnectionsMap">0,1|0,1,2|0,0,0,0||</P>
+    <P Name="VerificationMode">1</P>
+    <P Name="HarnessOwnerCheckSum">3831926934,4100433538,4208538601,2290594745</P>
+    <P Name="RebuildOnOpen">true</P>
+    <P Name="RebuildModelData">false</P>
+    <P Name="Graphical">false</P>
+    <P Name="DriveFcnCallWithTS">true</P>
+    <P Name="ScheduleInitTermReset">false</P>
+    <P Name="AutoShapeInputs">false</P>
+    <P Name="SLDVCompatible">no</P>
+    <P Name="SynchronizationMode">2</P>
+    <P Name="IsImported">false</P>
+    <P Name="PostRebuildCB"/>
+    <P Name="IsCodeContext">false</P>
+    <P Name="SchedulerBlock">1</P>
+    <P Name="SourceTypeString">Test Sequence</P>
+    <P Name="SinkTypeString">Test Assessment</P>
+    <P Name="CustomSourcePath"/>
+    <P Name="CustomSinkPath"/>
+    <P Name="BlockSIDs">266|415|0|0|0|46|0</P>
+    <P Name="OpenGraphs">||BMS_CurrentLimitsCalc_COM_Harness_SIL</P>
+    <P Name="ExistingBuildFolder"/>
+    <P Name="FunctionInterfaceName"/>
+  </Harness>
+  <ModelMetadata>
+    <P Name="ModelUUID">ee59cbcf-727f-4c08-b07d-9baf56af6fdd</P>
+    <P Name="OwnerBDName">BMS_CurrentLimitsCalc_COM</P>
+  </ModelMetadata>
+</HarnessInformation>

@@ -14,7 +14,7 @@ This README provides an overview of the contents of the repository and guidance 
 
 ```text
 
-Overall Progress:                                      █░░░░░░░░░░░░░░░░░░░   10% 🔄(In Progress)
+Overall Progress:                                      ██████████████████░░   90% 🔄(In Progress)
 
 ```
 
@@ -24,11 +24,11 @@ Overall Progress:                                      █░░░░░░░�
 
 ```text
 SWE.1 SRS (System/Software Requirements Specification) ████████████████████  100% ✅(Completed)
-SWE.2 ADD (Architectural Design Document)              ░░░░░░░░░░░░░░░░░░░░    0% 🔄(In Progress)
-SWE.3 CDD (Component Detailed Design)                  ░░░░░░░░░░░░░░░░░░░░    0% ⏳ (Waiting)
-SWE.4 UTD (Unit Test Document)                         ░░░░░░░░░░░░░░░░░░░░    0% ⏳ (Waiting)
-SWE.5 ITD-VTD (Integration & Verification)             ░░░░░░░░░░░░░░░░░░░░    0% ⏳ (Waiting)
-SWE.6 QTD (Qualification Test Document)                ░░░░░░░░░░░░░░░░░░░░    0% ⏳ (Waiting)
+SWE.2 ADD (Architectural Design Document)              ████████████████████  100% ✅(Completed)
+SWE.3 CDD (Component Detailed Design)                  ████████████████████  100% ✅(Completed)
+SWE.4 UTD (Unit Test Document)                         ████████████████████  100% ✅(Completed)
+SWE.5 ITD-VTD (Integration & Verification)             ███████████░░░░░░░░░   60% 🔄(In Progress)
+SWE.6 QTD (Qualification Test Document)                ░░░░░░░░░░░░░░░░░░░░    0% 🚧 **Blocked**
 ```
 
 ✅ **Completed** 🔄 **In Progress** **⏳ Waiting** 🚧 **Blocked**
